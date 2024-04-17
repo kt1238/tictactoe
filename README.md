@@ -1,2 +1,3 @@
 # tictactoe
-First attempt at tic tac toe game
+First attempt at making a tic tac toe.
+Spaghetti code.
